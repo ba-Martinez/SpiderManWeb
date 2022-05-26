@@ -5,4 +5,14 @@
 
 > Aplicação desenvolvida durante a #FrontWeek, na qual criamos do zero uma homepage do Spider-Man: Miles Morales!
 
-## Layout
+## Tecnologias 🚀
+
+- Motion Design
+- HTML & CSS com SASS
+- Javascript
+- UI Design
+
+## Layout 👀
+
+
+
