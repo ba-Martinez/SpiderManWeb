@@ -3,6 +3,8 @@
 
 <h1 dir="auto" align="center">Spider-Man: Miles Morales 🕷</h1>
 
+## About ✏
+
 > Aplicação desenvolvida durante a #FrontWeek, na qual criamos do zero uma homepage do Spider-Man: Miles Morales!
 
 ## Tecnologias 🚀
@@ -13,6 +15,7 @@
 - UI Design
 
 ## Layout 👀
+Dá uma olhada como ficou o projeto!
 
-
+- [Figma](https://www.figma.com/file/tmbEDEtxhnKolb3QUcUQvO/Spider-man-Web)
 
